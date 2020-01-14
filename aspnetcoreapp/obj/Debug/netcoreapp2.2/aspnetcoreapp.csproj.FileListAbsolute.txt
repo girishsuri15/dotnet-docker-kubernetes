@@ -1,0 +1,14 @@
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.csprojAssemblyReference.cache
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.csproj.CoreCompileInputs.cache
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.RazorAssemblyInfo.cache
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.RazorAssemblyInfo.cs
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.AssemblyInfoInputs.cache
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.AssemblyInfo.cs
+/mnt/d/COE/isos/aspnetcoreapp/bin/Debug/netcoreapp2.2/aspnetcoreapp.deps.json
+/mnt/d/COE/isos/aspnetcoreapp/bin/Debug/netcoreapp2.2/aspnetcoreapp.runtimeconfig.json
+/mnt/d/COE/isos/aspnetcoreapp/bin/Debug/netcoreapp2.2/aspnetcoreapp.runtimeconfig.dev.json
+/mnt/d/COE/isos/aspnetcoreapp/bin/Debug/netcoreapp2.2/aspnetcoreapp.dll
+/mnt/d/COE/isos/aspnetcoreapp/bin/Debug/netcoreapp2.2/aspnetcoreapp.pdb
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.RazorTargetAssemblyInfo.cache
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.dll
+/mnt/d/COE/isos/aspnetcoreapp/obj/Debug/netcoreapp2.2/aspnetcoreapp.pdb
